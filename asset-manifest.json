@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.265c8d7f.css",
+    "main.js": "/static/js/main.4d9363c5.js",
+    "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
+    "static/media/CV.pdf": "/static/media/CV.18af81116473f650aaf6.pdf",
+    "static/media/htlwien10.png": "/static/media/htlwien10.dc03fe2ad3c902784cae.png",
+    "static/media/evn.png": "/static/media/evn.be8ce03a6b0a46797d35.png",
+    "static/media/technikum.png": "/static/media/technikum.dddcae3bf08fd7df33d3.png",
+    "static/media/profile-picture2.webp": "/static/media/profile-picture2.e21ae14f883c56fc16cb.webp",
+    "index.html": "/index.html",
+    "main.265c8d7f.css.map": "/static/css/main.265c8d7f.css.map",
+    "main.4d9363c5.js.map": "/static/js/main.4d9363c5.js.map",
+    "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.265c8d7f.css",
+    "static/js/main.4d9363c5.js"
+  ]
+}
